@@ -1,3 +1,0 @@
-This is the for tic-tac-toe website:
-
- https://shubham3000.github.io/tic-tac-toe/
