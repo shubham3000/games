@@ -2,7 +2,7 @@
 
 #HTMl  #CSS  #javaScript
 
-This this the link for snake game website:
+This this the link for snake game website: 
 [snake game- https://shubham3000.github.io/snake/](https://shubham3000.github.io/snake)
 
 
